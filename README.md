@@ -137,7 +137,9 @@ git push -u origin main
 
 ## 👤 Author
 
-Add your name, LinkedIn, and portfolio link here.
+**D. Alla Rasool**
+📧 rasoolpinjari0@gmail.com
+🔗 [LinkedIn](www.linkedin.com/in/drasool7663) • [Portfolio](#)
 
 ## 📄 License
 
