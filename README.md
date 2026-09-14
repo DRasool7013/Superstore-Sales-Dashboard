@@ -88,7 +88,7 @@ This project transforms raw retail transaction data into a single-page, decision
 - The **Consumer** segment places the most orders across all shipping modes, with **Standard Class** the dominant ship mode overall.
 - A small group of top customers and products contribute disproportionately to total revenue (classic 80/20 pattern).
 
-For the full breakdown of analysis questions and answers, see **[Documentation.md](Documentation.md)**.
+For the full breakdown of analysis questions and answers, see **[Documentation.md](https://github.com/DRasool7013/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Documentation%20.md)**.
 
 ---
 
