@@ -31,6 +31,8 @@ Superstore-Sales-Dashboard/
 
 This project transforms raw retail transaction data into a single-page, decision-ready Excel dashboard for a fictional superstore chain. It answers core retail questions — which regions, categories, products, and customers drive sales and profit — using PivotTables, PivotCharts, and interactive slicers, with no external BI tool required.
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ---
 
 ## 🗂️ Dataset
