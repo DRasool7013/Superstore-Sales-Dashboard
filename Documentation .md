@@ -17,7 +17,7 @@ The end deliverable is a decision-ready dashboard built entirely with native Exc
 
 | Attribute | Detail |
 |---|---|
-| File | `Sample_Superstore_raw_table.xls` |
+| File | **[Sample_Superstore_raw_table.xls](https://github.com/DRasool7013/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Sample%20-%20Superstore_raw_table.xls)**|
 | Rows | 9,994 order line items |
 | Grain | One row per Order ID + Product |
 | Date range | 2014 – 2017 |
