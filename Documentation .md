@@ -88,7 +88,7 @@ A one-page Excel dashboard titled **"Superstore Sales Dashboard"** containing:
 - **6 charts**: Sales by Region, Sales Across Region and Category, Sales Over Months, Top 10 Products, Orders by Segment and Ship Mode, Top 10 Customers
 - **5 slicers**: Ship Mode, Segment, Category, Region, Month/Year — enabling real-time cross-filtering of every chart and KPI simultaneously
 
-See `screenshots/Superstore_Sales_Dashboard.png` for the final rendered dashboard.
+See **[screenshots/Superstore_Sales_Dashboard.png](https://github.com/DRasool7013/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Sample%20-%20Superstore_raw_table.xls)** for the final rendered dashboard.
 
 ---
 
