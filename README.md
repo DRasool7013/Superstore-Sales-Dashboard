@@ -37,7 +37,7 @@ This project transforms raw retail transaction data into a single-page, decision
 
 | Detail | Description |
 |---|---|
-| Source file | `Sample_Superstore_raw_table.xls` **[Sample_Superstore_raw_table.xls](Documentation.md)**.|
+| Source file |  **[Sample_Superstore_raw_table.xls](https://github.com/DRasool7013/Superstore-Sales-Profit-Analysis-Dashboard/blob/main/Sample%20-%20Superstore_raw_table.xls)**.|
 | Records | 9,994 orders |
 | Time period | 2014 – 2017 |
 | Columns | Order ID, Order/Ship Date, Ship Mode, Customer, Segment, Region, State, City, Category, Sub-Category, Product Name, Sales, Quantity, Discount, Profit |
